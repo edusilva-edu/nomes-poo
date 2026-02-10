@@ -18,8 +18,6 @@ Para formatar código ou texto em um bloco distinto, use três crases invertidas
     ```
 ```
 
-<<<<<<< HEAD
-
 # Listas
 
 ## Lista desordenada
@@ -44,7 +42,6 @@ Para fazer uma lista ordenada, coloque números.
 
 
 
-=======
 ## Alerts
 
 > [!NOTE]
@@ -61,4 +58,3 @@ Para fazer uma lista ordenada, coloque números.
 
 > [!CAUTION]
 > Avisos para tomar cuidado.
->>>>>>> d3042c3f5b3baf315db6f64b3ff225cd15a67b2e
