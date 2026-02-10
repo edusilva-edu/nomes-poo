@@ -1,5 +1,6 @@
 # Aprendendo Markdown
 
+<<<<<<< HEAD
 
 # Listas
 
@@ -25,3 +26,21 @@ Para fazer uma lista ordenada, coloque números.
 
 
 
+=======
+## Alerts
+
+> [!NOTE]
+> Informações uteis para se lembrar.
+
+> [!TIP]
+> Dicas.
+
+> [!IMPORTANT]
+> Informações chaves.
+
+> [!WARNING]
+> Informações Urgentes.
+
+> [!CAUTION]
+> Avisos para tomar cuidado.
+>>>>>>> d3042c3f5b3baf315db6f64b3ff225cd15a67b2e
